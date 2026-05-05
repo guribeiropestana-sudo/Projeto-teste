@@ -1,2 +1,2 @@
-# Projeto teste
+# Entendendo Algoritmos
 teste de repositorio 
